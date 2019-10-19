@@ -9,7 +9,7 @@ Add your name, pronouns, preferred internet handle, brief description of area of
 - Alicia Iverson, she/her, [aai3@humboldt.edu], {print cartography, participatory mapping}, Madison, WI
 - Madhura Phaterpekar, she/her, [kamadz.home@gmail.com], {development, map design}, Redlands, CA
 - Rosemary Wardley, she/her, [@rosemarywardley](https://twitter.com/RosemaryWardley), {map design, print cartography}, Washington, DC
-- 
+- Johnny Eaton, he/him, [@JohnnyKreativE](https://twitter.com/JohnnyKreativE), {print cartography, tile basemap creation, open source map content curation, design}, Ottawa-Gatineau, ON
 - 
 - 
 - 
